@@ -1,4 +1,4 @@
-# Bloqade Visual Compiler 
+# Taurtle: Visual compiler for neutral atom quantum circuits
 
 A **ManimGL** project that animates the full compilation pipeline for a Bloqade Squin circuit: from logical gates through native placement to qubit routing on a physical topology.
 
